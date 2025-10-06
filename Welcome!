@@ -1,0 +1,62 @@
+# 🤗 Welcome Your Valuable Suggestions!
+
+Thank you for your interest in the **ST-Seeker** project! We sincerely welcome your feedback and suggestions to help us continuously improve.
+
+## 💬 Feedback Channels
+
+### 1. GitHub Issues (Recommended)
+- 🐛 **Report Issues**: Encountered bugs or technical problems
+- 💡 **Feature Suggestions**: Want to add new features or improvements
+- ❓ **Usage Questions**: Unclear about any aspect of the project
+
+**[Click here to create an Issue](https://github.com/ST-Seeker/your-repo-name/issues/new)**
+
+### 2. Discussions
+- 💭 **Idea Exchange**: Share usage experiences and creative ideas
+- 🔄 **Improvement Discussions**: Participate in feature design discussions
+
+**[Join Discussions](https://github.com/ST-Seeker/your-repo-name/discussions)**
+
+### 3. Direct Contact
+- 📧 **Email**: your-email@example.com
+- 🌐 **Personal Website**: [Your website link]
+
+## 📋 Feedback Categories
+
+### 🎯 We Especially Need:
+- **User Experience**: Is the interface friendly? Is operation convenient?
+- **Feature Requests**: What new features would you like to see?
+- **Content Quality**: Are code examples and articles helpful?
+- **Technical Implementation**: Suggestions on performance and compatibility
+- **Documentation Improvement**: Which areas need more detailed explanations?
+
+### 🌟 Ways You Can Contribute:
+- Submit code improvements (Pull Request)
+- Improve documentation and comments
+- Share use cases and tutorials
+- Help with translation and localization
+
+## 🏆 Acknowledgments
+
+All valuable suggestions will be seriously considered, and your name will be credited in the project's **Acknowledgments List**!
+
+---
+
+*Thank you for taking the time to help us become better! ❤️*---
+name: 🚀 功能建议
+about: 为这个项目提出新功能建议
+title: '[功能]: '
+labels: enhancement
+---
+
+## 💡 功能描述
+清晰描述您希望添加的功能
+
+## 🤔 这个功能解决了什么问题？
+说明当前的不便或缺失
+
+## 🎯 预期效果
+描述实现后的使用场景
+
+## 🔄 替代方案
+您考虑过的其他解决方案
